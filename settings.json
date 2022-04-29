@@ -1,10 +1,10 @@
 {
-"autoread": false,
-"autoplaymusic": true,
-"autocomposing": true,
+"autoread": true,
+"autoplaymusic": false,
+"autocomposing": false,
 "autorecording": false,
-"NamaBot":"Toxic-Alexa_V2",
-"NomorOwner":"916380260672",
-"NamaOwner":"Toxic-Turbo",
+"NamaBot":"Gourav",
+"NomorOwner":"918089152280",
+"NamaOwner":"Gourav",
 "HunterApi":"Ikyy69"
 }
